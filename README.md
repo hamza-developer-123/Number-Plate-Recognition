@@ -1,1 +1,1 @@
-Number Plate Recognition Project. The dataset colleted from the kaggle.
+Number Plate classification Project. The dataset colleted from the kaggle.
